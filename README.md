@@ -1,3 +1,3 @@
 # instagrambootstrapclone
 Simple HTML Instagram clone made with Bootstrap.
-![ScreenShot](/instagramclone/assets/Screenshot%202022-09-03%20at%2023-11-13%20Instagram.png)
+![ScreenShot](./assets/Screenshot%202022-09-03%20at%2023-11-13%20Instagram.png)
